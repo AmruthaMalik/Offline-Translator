@@ -22,35 +22,37 @@ Built as part of an internship project at **Hindustan Aeronautics Limited (HAL)*
 ```bash
 git clone https://github.com/AmruthaMalik/offline-translator.git
 cd offline-translator
+```
 
-##2️⃣ Set up a virtual environment
+## 2️⃣ Set up a virtual environment
 python -m venv venv
 
-##3️⃣ Activate the virtual environment
+## 3️⃣ Activate the virtual environment
 venv\Scripts\activate
 
-##4️⃣ Install dependencies
+## 4️⃣ Install dependencies
 pip install -r requirements.txt
 
-##5️⃣ Run the application
+## 5️⃣ Run the application
 python translator.py
 ✅ The first run will download the models (Hindi ≈ 300MB, Kannada ≈ 2.5GB).
 ✅ After the first run, the application works fully offline.
 
-image url
+![Image](https://github.com/user-attachments/assets/346bc9af-519a-4159-bddc-61e744758f98)
 
-##📦 Requirements
+## 📦 Requirements
 torch
 transformers
 sentencepiece
 tk
 
-#📸 Screenshots & Snapshots
+# 📸 Screenshots & Snapshots
+![Image](https://github.com/user-attachments/assets/04e1822d-89b1-4e70-a1dd-a253678484ec)
+![Image](https://github.com/user-attachments/assets/84820830-593a-45f5-b4d5-14e470011603)
+![Image](https://github.com/user-attachments/assets/dbb749ee-e6ad-45b4-b49c-5f4e1987ba99)
+![Image](https://github.com/user-attachments/assets/19205113-9e9a-4adf-b396-5ccaf979ffef)
 
-
-
-
-###🙌 Credits
+### 🙌 Credits
 Developed by Amrutha M and Anagha S K
 Under the guidance of Ms. S. Sandhya, CM (IT), Aircraft Division, HAL
 
