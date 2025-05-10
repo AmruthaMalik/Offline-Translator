@@ -56,7 +56,7 @@ The resultant Screenshorts
 ![Image](https://github.com/user-attachments/assets/04e1822d-89b1-4e70-a1dd-a253678484ec)
 ![Image](https://github.com/user-attachments/assets/84820830-593a-45f5-b4d5-14e470011603)
 
-### Englsih to Kannada 
+### English to Kannada 
 ![Image](https://github.com/user-attachments/assets/dbb749ee-e6ad-45b4-b49c-5f4e1987ba99)
 ![Image](https://github.com/user-attachments/assets/19205113-9e9a-4adf-b396-5ccaf979ffef)
 
