@@ -41,14 +41,19 @@ python translator.py
 ![Image](https://github.com/user-attachments/assets/346bc9af-519a-4159-bddc-61e744758f98)
 
 ## 📦 Requirements
-torch
+<pre>torch
 transformers
 sentencepiece
 tk
+</pre>
 
 # 📸 Screenshots & Snapshots
+The resultant Screenshorts 
+### English to Hindi
 ![Image](https://github.com/user-attachments/assets/04e1822d-89b1-4e70-a1dd-a253678484ec)
 ![Image](https://github.com/user-attachments/assets/84820830-593a-45f5-b4d5-14e470011603)
+
+### Englsih to Kannada 
 ![Image](https://github.com/user-attachments/assets/dbb749ee-e6ad-45b4-b49c-5f4e1987ba99)
 ![Image](https://github.com/user-attachments/assets/19205113-9e9a-4adf-b396-5ccaf979ffef)
 
