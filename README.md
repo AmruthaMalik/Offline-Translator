@@ -1,4 +1,7 @@
-# Offline Translator 🇮🇳
+# Offline Translator 
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 An **offline desktop translator app** that converts English text into Hindi or Kannada using Hugging Face Transformers and Tkinter.  
 Built as part of an internship project at **Hindustan Aeronautics Limited (HAL)** 🚀
